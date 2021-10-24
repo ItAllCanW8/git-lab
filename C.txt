@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hgfd
-=======
-hgfd
->>>>>>> master
+a
